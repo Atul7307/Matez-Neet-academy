@@ -1,0 +1,5 @@
+.nl:hover {
+  color: rgb(244 123 30);
+  font-weight: 700;
+  transition: color 0.2s ease, font-weight 0.2s ease;
+}

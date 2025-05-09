@@ -1,0 +1,211 @@
+
+
+.box {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  position: relative;
+  perspective: 1000px;
+}
+.flipContainer {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s ease;
+}
+.flipFront,
+.flipBack {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.flipFront {
+  background-color: #f89f40;
+}
+.flipBack h2 {
+  color: #002f48;
+  font-size: 24px;
+}
+.flipBack h4 {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 10px;
+  color: #002f48;
+  line-height: 2;
+  padding-inline: 24px;
+}
+.flipBack img {
+  margin-bottom: 10px;
+}
+.flipBack {
+  background-color: #7f96a3;
+  transform: rotateY(180deg);
+  color: white;
+}
+.box:hover .flipContainer {
+  transform: rotateY(180deg);
+}
+
+.box p {
+  margin-top: 15px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.formContainer {
+  width: 512px;
+  margin-left: 60px;
+  height: 580px;
+  background-image: url("../../assets/ContactPage/formbg.png");
+}
+
+.formContainer h1 {
+  margin-top: 66px;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+}
+
+.formContainer form {
+  padding-inline: 55px;
+  margin-top: 28px;
+}
+
+.formContainer input {
+  width: 403px;
+  height: 48px;
+  border: 2px solid #d8e5ed;
+  outline: none;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #fff;
+  padding-inline: 15px;
+  font-size: 14px;
+  margin-bottom: 11px;
+}
+
+.formContainer .textareaContainer {
+  height: 161px;
+  width: 403px;
+  border: 2px solid #d8e5ed;
+  border-radius: 10px;
+  background-color: transparent;
+  position: relative;
+}
+
+.textareaContainer textarea {
+  width: 100%;
+  border: 2px solid #d8e5ed;
+  border-radius: 10px;
+  padding-inline: 13px;
+  font-size: 14px;
+  padding-top: 9px;
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.textareaContainer button {
+  width: 91px;
+  height: 34px;
+  border-radius: 10px;
+  background-color: #f67f00;
+  color: #fff;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-bottom: 10px;
+  margin-right: 11px;
+  cursor: pointer;
+}
+
+.formContainer p {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .flipFront img {
+    width: 30px;
+    height: 30px;
+  }
+  .flipBack img {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+  }
+  .box p {
+    font-size: 14px;
+  }
+  .formContainer {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    border-radius: 20px;
+    margin-left: 0px !important;
+    padding-bottom: 2rem;
+  }
+
+  .formContainer h1 {
+    margin-top: 30px;
+    font-size: 18px;
+  }
+
+  .formContainer form {
+    padding-inline: 16px;
+  }
+  .formContainer input {
+    width: 100%;
+  }
+  .formContainer .textareaContainer {
+    width: 100%;
+  }
+  .formContainer p {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #fff;
+  }
+
+  .box {
+    width: 160px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    position: relative;
+    perspective: 1000px;
+  }
+
+  .flipBack h2 {
+    font-size: 18px;
+  }
+  .flipBack h4 {
+    font-size: 8px;
+    margin-top: 5px;
+    line-height: 2;
+    padding-inline: 0px;
+  }
+}

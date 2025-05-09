@@ -1,0 +1,143 @@
+.placeholder-custom::placeholder {
+    color: #74A8C3;
+  }
+
+.input-border {
+    border-radius: 15px;
+}
+@media (min-width: 640px) {
+  .main-container {
+    max-width: 1200px;
+  }
+}
+
+.input-border {
+  width: 100%; /* Full width for mobile by default */
+}
+
+/* Media query for larger screens */
+@media (min-width: 640px) {
+  .input-border {
+    width: 871px; /* 871px width on screens larger than mobile */
+  }
+}
+/* Container styles */
+/* .relative {
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-bottom: 24px;
+} */
+
+/* Logo styles */
+.responsive-logo {
+  width: 50px;
+  height: 50px;
+  margin-left: 120px;
+}
+
+/* Enrollment Form Title */
+.enrollment-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  color: black;
+  font-size: 50px;
+  line-height: 77px;
+  font-weight: bold;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .responsive-logo {
+    width: 40px;
+    height: 40px;
+    margin-left: 0; /* Center the logo on mobile */
+  }
+
+  .enrollment-title {
+    font-size: 30px; /* Reduce title size on mobile */
+    line-height: 40px;
+    position: absolute;
+    left: 50%;
+  }
+}
+
+@media (max-width: 480px) {
+  .responsive-logo {
+    width: 30px;
+    height: 30px;
+  }
+
+  .enrollment-title {
+    font-size: 18px;
+    line-height: 30px;
+  }
+}
+/* Default styles for larger screens */
+.responsive-logo {
+  width: 84.58px;
+  height: 82.77px;
+  margin-left: 320px;
+}
+
+/* Responsive styles for mobile devices */
+@media (max-width: 768px) {
+  .responsive-logo {
+    width: 50px;
+    height: 50px;
+    margin-left: 40px; /* Center the logo if necessary */
+  }
+}
+/* Default styles for larger screens */
+.enrollment-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  color: black;
+  font-size: 50px;
+  line-height: 77px;
+  font-weight: bold;
+}
+
+/* Responsive styles for mobile devices */
+@media (max-width: 768px) {
+  .enrollment-title {
+    width: 165px;
+    height: 26px;
+    font-size: 16px; /* Adjust font size as needed for mobile */
+    line-height: 26px;
+  }
+}
+
+.course-item {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  padding: 12px;
+  border: 2px solid;
+  border-radius: 0.5rem;
+  text-align: center;
+  transition: color 0.3s ease;
+}
+
+.course-item::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 0;
+  background-color: rgba(37, 99, 235, 0.3); /* Semi-transparent blue */
+  transition: width 0.5s ease;
+}
+
+.course-item:hover::before {
+  width: 75%; /* Covers 3/4 of the item's width */
+}
+
+.course-item-selected {
+  background-color: #3b82f6; /* Selected background color */
+  color: white;
+  border-color: #3b82f6;
+}

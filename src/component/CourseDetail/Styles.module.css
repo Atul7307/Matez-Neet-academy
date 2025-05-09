@@ -1,0 +1,116 @@
+.modalWrapper {
+  background: transparent; /* Ensure no default background color */
+  padding: 0px;
+}
+
+.modalBackground {
+  background: url("../../assets/ContactPage/formbg.png") no-repeat center center;
+  background-size: cover;
+  border-radius: 1.25rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%; /* Cover entire modal */
+  width: 100%; /* Full modal width */
+}
+
+.modalTitle {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+.formContainer {
+  width: 100%;
+  max-width: 32rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.inputField {
+  width: 100%;
+  border: 0.125rem solid #fff;
+  border-radius: 0.625rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  background-color: transparent;
+  color: #fff;
+  outline: none;
+  margin: 8px;
+}
+
+.textareaContainer {
+  position: relative;
+  height: 8rem;
+  margin: 6px;
+}
+
+.textareaField {
+  width: 100%;
+  height: 100%;
+  border: 0.125rem solid #fff;
+  border-radius: 0.625rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  background-color: transparent;
+  color: #fff;
+  outline: none;
+  resize: none;
+  margin: 6px;
+}
+
+.submitButton {
+  position: absolute;
+  bottom: 0.5rem;
+  right: 0.5rem;
+  background-color: #f67f00;
+  color: #fff;
+  border-radius: 0.625rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+}
+
+.termsText {
+  text-align: center;
+  color: #fff;
+  font-size: 0.875rem;
+  margin-top: 1rem;
+}
+
+.questionBall {
+  font-size: 30px;
+  align-content: center;
+}
+
+@media (max-width: 768px) {
+  .modalBackground {
+    padding: 1.5rem;
+  }
+
+  .modalTitle {
+    font-size: 1.25rem;
+  }
+
+  .textareaContainer {
+    height: 6rem;
+  }
+
+  .termsText {
+    font-size: 0.75rem;
+  }
+
+  .questionBall {
+    font-size: 15px;
+    align-content: center;
+    margin: 0 !important;
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+  }
+}

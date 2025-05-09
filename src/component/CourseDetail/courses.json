@@ -1,0 +1,266 @@
+[
+  {
+    "id": "1",
+    "title": "11th & 12th Science Coaching in Kalyan",
+    "tagline": "Advanced Science Preparation for Board and Competitive Exams",
+    "description": "SG Education’s 11th-12th Science coaching in Kalyan is a comprehensive program for students aiming to excel in board exams and entrance exams like JEE, NEET, and MHT-CET. With an in-depth curriculum covering Physics, Chemistry, Mathematics, and Biology, our program focuses on building strong concepts, exam strategies, and problem-solving skills.",
+    "features": [
+      "Experienced Faculty: Led by seasoned teachers with a deep understanding of the 11th-12th syllabus.",
+      "Customized Study Material: Detailed notes and guides aligned with the State and CBSE board syllabus.",
+      "Daily Practice Problems (DPPs): Regular assignments that reinforce daily lessons for improved retention.",
+      "Mock Tests & Weekly Assessments: Tests aligned with board and competitive exam patterns."
+    ],
+    "buttonText": "Enroll Now",
+    "details": {
+      "title": "11th-12th Science Coaching in Kalyan – Advanced Science Preparation for Board and Competitive Exams",
+      "description": "SG Education's 11th-12th Science coaching empowers students with the skills to achieve top scores in board and competitive exams with a thorough curriculum.",
+      "keyFeatures": [
+        "Experienced Faculty: Led by seasoned teachers with a deep understanding of the 11th-12th syllabus.",
+        "Customized Study Material: Detailed notes and guides aligned with the State and CBSE board syllabus. ",
+        "Daily Practice Problems (DPPs): Regular assignments that reinforce daily lessons for improved retention.",
+        "Mock Tests & Weekly Assessments: Tests aligned with board and competitive exam patterns.",
+        "Interactive Doubt Clearing Sessions:  One-on-one sessions to clarify concepts and enhance confidence.",
+        "Real-World Applications: Teaching science concepts with practical examples.",
+        "Parent-Teacher Meetings: Frequent updates to keep parents informed about student progress."
+      ],
+      "text": "Known as the best 11th-12th Science coaching in Kalyan, SG Education helps students achieve their academic goals.",
+      "tutor": {
+        "name": "Pooja Prasana Mishra",
+        "qualification": "M.Sc. Chemistry, B.Ed.",
+        "experience": "Teaching Experience: 7 Years",
+        "imagePath": "./1.png"
+      }
+    }
+  },
+  {
+    "id": "2",
+    "title": "IIT JEE Coaching in Kalyan",
+    "tagline": "Elite Preparation for JEE Main & Advanced",
+    "description": "Our IIT JEE coaching in Kalyan is a specialized course designed to help students excel in JEE Main and Advanced exams. Covering Physics, Chemistry, and Mathematics at an advanced level, our coaching is known for its rigorous approach, competitive environment, and results-oriented preparation.",
+    "features": [
+      "Targeted JEE Curriculum: Specialized study material and problem sets aimed at JEE standards.",
+      "Advanced Mock Tests: Simulated exams under timed conditions to build exam stamina.",
+      "Problem-Solving Techniques: Techniques for efficiently tackling high-difficulty JEE problems.",
+      "Personalized Mentorship: One-on-one guidance and study strategy sessions with experienced faculty."
+    ],
+    "buttonText": "Join Now",
+    "details": {
+      "title": "IIT JEE Coaching in Kalyan – Elite Preparation for JEE Main & Advanced",
+      "description": "Renowned for producing top ranks, SG Education’s IIT JEE coaching provides focused preparation for engineering aspirants.",
+      "keyFeatures": [
+        "Targeted JEE Curriculum: Specialized study material and problem sets aimed at JEE standards.",
+        "Advanced Mock Tests: Simulated exams under timed conditions to build exam stamina.",
+        "Problem-Solving Techniques: Techniques for eƯiciently tackling high-diƯiculty JEE problems.",
+        "Personalized Mentorship: One-on-one guidance and study strategy sessions with experienced faculty.",
+        "AI-Powered Performance Tracking: Detailed analytics on student performance to identify areas for improvement.",
+        "Peer Group Learning: Group discussions to foster competitive learning.",
+        "Alumni Mentorship: Insights from previous top rankers on strategies and focus areas."
+      ],
+      "text": "Achieve top scores with our elite JEE Main and Advanced coaching program.",
+      "tutor": {
+        "name": "Latesh Ghavat",
+        "qualification": "M.Tech (Aerospace)",
+        "experience": "Teaching Experience: 14 Years",
+        "imagePath": "./1.png"
+      }
+    }
+  },
+  {
+    "id": "3",
+    "title": "MHT-CET Coaching in Kalyan",
+    "tagline": "Specialized Coaching for Maharashtra CET",
+    "description": "Our MHT-CET coaching in Kalyan prepares students for the Maharashtra CET with targeted focus on Physics, Chemistry, Mathematics, and Biology. The program includes comprehensive content and strategies tailored to maximize speed, accuracy, and performance on the CET exam.",
+    "features": [
+      "Exclusive CET Pattern Tests: Full-length and section-specific tests designed like actual CET exams.",
+      "Detailed Time Management Training: Techniques to optimize speed and accuracy.",
+      "Formula and Quick Revision Notes: Concise notes for rapid revisions before exams.",
+      "Detailed Feedback and Performance Analysis: Reports after every test to highlight strengths and improvement areas."
+    ],
+    "buttonText": "Start Now",
+    "details": {
+      "title": "MHT-CET Coaching in Kalyan – Specialized Coaching for Maharashtra CET",
+      "description": "SG Education offers top-notch CET-focused training with regular tests, revision sessions, and expert guidance to help students achieve high scores.",
+      "keyFeatures": [
+        "Exclusive CET Pattern Tests: Full-length and section-specific tests designed like actual CET exams.",
+        "Detailed Time Management Training: Techniques to optimize speed and accuracy.",
+        "Formula and Quick Revision Notes: Concise notes for rapid revisions before exams.",
+        "Detailed Feedback and Performance Analysis: Reports after every test to highlight strengths and improvement areas.",
+        "Expert-Led Special Sessions: Extra classes by experts on challenging CET topics.",
+        "Regular Practice and Revision Sessions: Focused practice for concept reinforcement. ",
+        "Crash Course Option: Intensive sessions for revision before the exam."
+      ],
+      "text": "Achieve your CET goals with targeted training at SG Education.",
+      "tutor": {
+        "name": "Latesh Ghavat",
+        "qualification": "M.Tech (Aerospace)",
+        "experience": "Teaching Experience: 14 Years",
+        "imagePath": "./1.png"
+      }
+    }
+  },
+  {
+    "id": "4",
+    "title": "JEE/NEET Foundation in Kalyan",
+    "tagline": "Early Foundation for Future Success",
+    "description": "SG Education’s JEE/NEET Foundation course in Kalyan is an essential program for students in 8th to 10th grade to build a strong academic base. Focusing on Physics, Chemistry, Biology, and Mathematics, the program aims to prepare students early for JEE and NEET exams.",
+    "features": [
+      "Concept-Based Learning: Strong foundation in key concepts fundamental to competitive exams.",
+      "Critical Thinking Exercises: Activities and exercises to enhance analytical and logical reasoning.",
+      "Interactive Learning and STEM Projects: Engaging activities that make learning enjoyable and hands-on.",
+      "Regular Progress Tracking: Frequent assessments and updates to parents on student progress."
+    ],
+    "buttonText": "Enroll Today",
+    "details": {
+      "title": "JEE/NEET Foundation in Kalyan – Early Foundation for Future Success",
+      "description": "Prepare early for JEE and NEET with SG Education’s comprehensive foundation program tailored for 8th-10th graders.",
+      "keyFeatures": [
+        "Concept-Based Learning: Strong foundation in key concepts that are fundamental to competitive exams.",
+        "Critical Thinking Exercises: Activities and exercises to enhance analytical and logical reasoning. ",
+        "Interactive Learning and STEM Projects: Engaging activities that make learning enjoyable and hands-on.",
+        "Regular Progress Tracking: Frequent assessments and updates to parents on student progress.",
+        "Competitive Exam Orientation: Introducing students to the format and expectations of JEE/NEET.",
+        "Structured Study Plans: Systematic study schedules to establish productive study habits early on. ",
+        "Olympiad and Quiz Preparation: Extra support for students to compete in national and international Olympiads."
+      ],
+      "text": "Lay a strong foundation for future success with our early preparation program.",
+      "tutor": {
+        "name": "Latesh Ghavat",
+        "qualification": "M.Tech (Aerospace)",
+        "experience": "Teaching Experience: 14 Years",
+        "imagePath": "./1.png"
+      }
+    }
+  },
+  {
+    "id": "5",
+    "title": "Special Maths Batch in Kalyan",
+    "tagline": "Focused Mathematics Coaching for Excellence",
+    "description": "Our Special Maths Batch in Kalyan offers exclusive coaching to help students gain confidence and excel in mathematics. Covering topics from Arithmetic to Calculus, this program makes math accessible and engaging for students.",
+    "features": [
+      "Level-Based Worksheets: Customized assignments for skill-building from basics to advanced levels.",
+      "Math Tricks & Shortcuts: Techniques for solving problems quickly and accurately.",
+      "Problem-Solving Sessions: Regular practice with challenging questions.",
+      "Personalized Math Coaching: Individualized support for students needing extra help."
+    ],
+    "buttonText": "Learn More",
+    "details": {
+      "title": "Special Maths Batch in Kalyan – Focused Mathematics Coaching for Excellence",
+      "description": "Boost your math skills and confidence with SG Education’s exclusive program designed for all levels.",
+      "keyFeatures": [
+        "Level-Based Worksheets: Customized assignments for skill-building from basics to advanced levels.",
+        "Math Tricks & Shortcuts: Techniques for solving problems quickly and accurately. ",
+        "Problem-Solving Sessions: Regular practice with challenging questions.",
+        "Personalized Math Coaching: Individualized support for students needing extra help.",
+        "Math Olympiad Preparation: Training for students competing in national and international math Olympiads.",
+        "Math Lab and Interactive Tools: Hands-on activities and visual aids for complex concepts.",
+        "Small Batch Size: Ensures focused attention and personalized learning."
+      ],
+      "text": "Excel in mathematics with our engaging and comprehensive coaching program.",
+      "tutor": {
+        "name": "Latesh Ghavat",
+        "qualification": "M.Tech (Aerospace)",
+        "experience": "Teaching Experience: 14 Years",
+        "imagePath": "./1.png"
+      }
+    }
+  },
+  {
+    "id": "6",
+    "title": "NEET Coaching in Kalyan",
+    "tagline": "Focused Preparation for Medical Aspirants",
+    "description": "Our NEET coaching in Kalyan is a top-rated program aimed at helping students secure seats in leading medical colleges. With specialized preparation in Physics, Chemistry, and Biology, our program offers thorough preparation for the NEET exam.",
+    "features": [
+      "Chapter-Wise Practice and DPPs: Structured practice sheets for each topic in NEET.",
+      "Concise Revision Notes: Summary notes for quick reviews before the exam.",
+      "NEET-Oriented Practice Papers: Realistic practice exams to build exam familiarity.",
+      "Time Management & Strategy Sessions: Tips to optimize question selection and scoring."
+    ],
+    "buttonText": "Join Today",
+    "details": {
+      "title": "NEET Coaching in Kalyan – Focused Preparation for Medical Aspirants",
+      "description": "SG Education provides result-oriented NEET coaching with expert guidance, detailed preparation, and personalized attention for aspiring medical students.",
+      "keyFeatures": [
+        "Chapter-Wise Practice and DPPs: Structured practice sheets for each topic in NEET.",
+        "Concise Revision Notes: Summary notes for quick reviews before the exam.",
+        "NEET-Oriented Practice Papers: Realistic practice exams to build exam familiarity.",
+        "Time Management & Strategy Sessions: Tips to optimize question selection and scoring.",
+        "Detailed Performance Reports: Regular progress updates with analysis for continuous improvement. ",
+        "Visual Aids for Biology: Diagrams and illustrations to simplify complex concepts.",
+        "Stress and Mindfulness Workshops: Tools to manage exam pressure eƯectively."
+      ],
+      "text": "Secure your medical college admission with SG Education's specialized NEET coaching.",
+      "tutor": {
+        "name": "Pooja Prasana Mishra",
+        "qualification": "M.Sc. Chemistry, B.Ed.",
+        "experience": "Teaching Experience: 7 Years",
+        "imagePath": "./1.png"
+      }
+    }
+  },
+  {
+    "id": "7",
+    "title": "8th-9th-10th Board Coaching in Kalyan",
+    "tagline": "Comprehensive School Exam Preparation",
+    "description": "SG Education’s 8th-10th board coaching in Kalyan offers a solid academic foundation for State, CBSE, and ICSE students. This program ensures that students are well-prepared for their school exams with a comprehensive curriculum and frequent assessments.",
+    "features": [
+      "Thorough Syllabus Coverage: Complete preparation for all key subjects.",
+      "Regular Tests and Assessments: Helps gauge understanding and readiness.",
+      "Memory Retention Techniques: Use of mnemonics and strategies for long-term retention.",
+      "Exam Writing Skills: Training on presentation and answering techniques to score high marks."
+    ],
+    "buttonText": "Sign Up",
+    "details": {
+      "title": "8th-9th-10th Board Coaching in Kalyan – Comprehensive School Exam Preparation",
+      "description": "Prepare for school exams with SG Education's all-rounded coaching program that ensures students achieve their best academic results.",
+      "keyFeatures": [
+        "Thorough Syllabus Coverage: Complete preparation for all key subjects. ",
+        "Regular Tests and Assessments: Helps gauge understanding and readiness. ",
+        "Memory Retention Techniques: Use of mnemonics and strategies for long-term retention.",
+        "Exam Writing Skills: Training on presentation and answering techniques to score high marks.",
+        "End-of-Term Revision Sessions: Intensive sessions focused on revision before exams.",
+        "Parent-Teacher Feedback Meetings: Regular updates on student progress.",
+        "Interactive Visual Learning: Use of digital aids to reinforce learning"
+      ],
+      "text": "Achieve top scores in school exams with our focused board coaching program.",
+      "tutor": {
+        "name": "Varsha Ghavat",
+        "qualification": "M.Sc. Chemistry, B.Ed.",
+        "experience": "Teaching Experience: 7 Years",
+        "imagePath": "./1.png"
+      }
+    }
+  },
+  {
+    "id": "8",
+    "title": "Olympiad Preparation in Kalyan",
+    "tagline": "Advanced Training for Science and Math Olympiads",
+    "description": "Our Olympiad preparation classes in Kalyan offer specialized coaching for students aiming to compete in national and international Olympiads in Science and Mathematics. We provide rigorous training, problem-solving, and analytical skills development.",
+    "features": [
+      "Customized Syllabus: Aligned with Olympiad standards for each subject.",
+      "High-Level Problem Solving: Focus on critical thinking and challenging problems.",
+      "Practice Exams and Mock Tests: Regular timed tests to simulate competition.",
+      "Expert Guidance: Faculty experienced in coaching students for competitive exams."
+    ],
+    "buttonText": "Get Started",
+    "details": {
+      "title": "Olympiad Preparation in Kalyan – Advanced Training for Science and Math Olympiads",
+      "description": "SG Education equips students with advanced problem-solving skills and strategies to excel in prestigious Olympiads.",
+      "keyFeatures": [
+        "Customized Syllabus: Aligned with Olympiad standards for each subject.",
+        "High-Level Problem Solving: Focus on critical thinking and challenging problems.",
+        "Practice Exams and Mock Tests: Regular timed tests to simulate competition.",
+        "Expert Guidance: Faculty experienced in coaching students for competitive exams.",
+        "Guest Lectures by Olympiad Toppers: Insights and strategies from previous winners",
+        "Puzzle Solving and Logic Building: Fun, interactive sessions that develop reasoning skills",
+        "Performance Reports: Detailed analysis and feedback on student progress."
+      ],
+      "text": "Prepare for national and international Olympiads with SG Education’s expert coaching.",
+      "tutor": {
+        "name": "Latesh Ghavat",
+        "qualification": "M.Tech (Aerospace)",
+        "experience": "Teaching Experience: 14 Years",
+        "imagePath": "./1.png"
+      }
+    }
+  }
+]

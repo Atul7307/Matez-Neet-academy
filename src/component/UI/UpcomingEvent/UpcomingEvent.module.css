@@ -1,0 +1,54 @@
+.upcomingEvent {
+  background-image: url("./assets/images/bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: flex;
+  padding: 0 50px;
+}
+
+.leftColumn {
+  width: 50%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 80px 0;
+}
+
+.rightColumn {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.eventImage {
+  width: 95%;
+}
+
+@media (max-width: 678px) {
+  .upcomingEvent {
+    background-image: url("./assets/images/bg.png");
+    display: block;
+    padding: 0 20px 20px;
+  }
+
+  .leftColumn {
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 20px 0;
+  }
+
+  .rightColumn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .eventImage {
+    width: 100%;
+  }
+}

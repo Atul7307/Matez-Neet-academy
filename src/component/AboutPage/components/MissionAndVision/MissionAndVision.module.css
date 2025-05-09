@@ -1,0 +1,27 @@
+.missionSection {
+  background-image: url("../../assets/images/BgMain2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  justify-content: center;
+  text-align: center;
+  padding: 80px 0;
+}
+
+.videoSection {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+}
+
+.missionVideo {
+  width: 70%;
+  height: 500px;
+}
+
+@media (max-width: 678px) {
+  .missionVideo {
+    width: 90%;
+    height: 200px;
+  }
+}

@@ -1,0 +1,50 @@
+/* Hides the scrollbar but still allows scrolling */
+.scrollbar-hide {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;     /* Firefox */
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, and Opera */
+  }
+  
+  /* Hide vertical scrollbar for small screens and above */
+  @media (min-width: 640px) {
+    .hide-vertical-scrollbar {
+      overflow-y: auto; /* Allow vertical scrolling */
+      scrollbar-width: none; /* Hide scrollbar */
+    }
+  
+    .hide-vertical-scrollbar::-webkit-scrollbar {
+      display: none; /* Hide scrollbar in Chrome, Safari, and Opera */
+    }
+  }
+  
+  /* Customization for responsive design on mobile */
+  @media (max-width: 656px) {
+    .full-width {
+      width: 100%;
+    }
+  
+    .height-400px {
+      height: 400px; /* Adjust height for mobile view */
+    }
+  }
+  
+  /* Custom grid for small screens */
+  @media (max-width: 768px) {
+    .courses-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none !important;
+  }
+  
+  /* Hide scrollbar for IE, Edge, and Firefox */
+  .scrollbar-hidden {
+    -ms-overflow-style: none !important;  /* IE and Edge */
+    scrollbar-width: none !important;  /* Firefox */
+  }
+  
