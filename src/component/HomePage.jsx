@@ -80,13 +80,11 @@ const HomePage = () => {
 
   const headings = [
     "11th & 12th Science",
-    "IIT-JEE",
-    "NEET",
-    "MHT-CET",
+    "NEET-UG",
     "8th-9th-10th Board",
-    "JEE/NEET Foundation",
+    "NEET Foundation",
     "Olympiad",
-    "Special Math Batch",
+    "Special Neet Batch",
   ];
 
   const [index, setIndex] = useState(0);
@@ -214,7 +212,7 @@ const HomePage = () => {
           <div className="container mx-auto sm:flex px-4 pb-6 sm:pb-32">
             <div className="pt-4 sm:pt-[120px] sm:ml-[50px]">
               <h1 className="w-[328px] sm:w-[650px] text-[24px] sm:text-[64px] text-[#ffffff] sm:text-[#ffffff] font-bold leading-tight">
-                Best Coaching Class in Kalyan for
+                Best Coaching Class in Gorakhpur for
               </h1>
               <div className="relative h-[50px] w-full flex items-center overflow-hidden">
                 {transitions((style, i) => (
@@ -227,7 +225,7 @@ const HomePage = () => {
                 ))}
               </div>
               <p className="text-[18px] sm:text-[28px] w-[328px] sm:w-[605px] text-[#ffffff] sm:text-[#ffffff] font-roboto font-normal">
-                Join Kalyan's Top-Rated Coaching Institute for Academic
+                Join Gorakhpur's Top-Rated Coaching Institute for Academic
                 Excellence and Competitive Exam Success.
               </p>
               <div className="flex justify-between sm:justify-normal sm:gap-4 mt-6">
@@ -258,7 +256,7 @@ const HomePage = () => {
                   key={index}
                   src={images[index]}
                   style={style}
-                  className="absolute top-[0px] mt-3 sm:mt-[100px] ml-7 sm:ml-24 w-[270px] h-[370px] sm:w-[382px] sm:h-[510px] rounded-xl shadow-lg"
+                  className="absolute top-[0px] mt-3 sm:mt-[100px] ml-7 sm:ml-24 w-[270px] h-[370px] sm:w-[395px] sm:h-[510px] rounded-xl shadow-lg object-cover"
                 />
               ))}
             </div>

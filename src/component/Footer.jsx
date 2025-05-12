@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="flex sm:justify-between py-10 ml-10 gap-5 sm:py-20 sm:mx-40 ">
         <div className="">
           <img
-            className="w-[70px] h-[65px] sm:w-auto sm:h-auto"
+            className="w-[70px] h-[65px] sm:w-[95px] sm:h-[95px]"
             src={Logo}
             alt=""
           />
