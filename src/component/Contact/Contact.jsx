@@ -77,13 +77,13 @@ export default function Contact() {
               Follow Us On
             </h2>
             <div className="icon-list">
-  <a href="https://www.instagram.com/sgeducationacademy" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/matez_neet_academy" target="_blank" rel="noopener noreferrer">
     <img src={insta} alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/sgeduhc" target="_blank" rel="noopener noreferrer">
     <img src={facebook} alt="Facebook" />
   </a>
-  <a href="https://www.youtube.com/@S.G.Education" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/@MaTezNeetAcademy" target="_blank" rel="noopener noreferrer">
     <img src={youtube} alt="YouTube" />
   </a>
 </div>
@@ -106,9 +106,9 @@ export default function Contact() {
                     Address
                   </h2>
                   <h4>
-                    Office No 109, Whitefield, Flower valley, Opposite Gurudev
-                    NX, Khadakpada, Birla College Road, Kalyan Maharashtra,
-                    421301
+                    3rd Floor, J.P. Shahi Bhawan, Infront of Pillar's School, 
+                    Civil Lines, Golghar, Gorakhpur,
+                     Uttar Pradesh 273001.
                   </h4>
                 </div>
               </div>
@@ -127,7 +127,7 @@ export default function Contact() {
                     Phone
                   </h2>
                   <h4>
-                  +91 8591932112
+                  +91 9519515042
                   </h4>
                 </div>
               </div>
@@ -146,7 +146,7 @@ export default function Contact() {
                     Email ID
                   </h2>
                   <h4>
-                  sgeducation@gmail.com
+                  matezneetacademy@gmail.com
                   </h4>
                 </div>
               </div>
