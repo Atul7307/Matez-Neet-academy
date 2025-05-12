@@ -25,20 +25,18 @@ const Footer = () => {
             Address
           </h1>
           <p className="text-[18px] text-[#ffffff] w-[411px] mt-4">
-            Office No 109, Whitefield, Flower Valley, above HDFC Bank, opposite
-            Gurudev NX, Khadakpada, Birla College Road, Kalyan,
-            Maharashtra 421301.
+            3rd Floor, J.P. Shahi Bhawan, Infront Of Pillar's School, Civil Lines, Golghar, Gorakhpur, Uttar Pradesh 273001.
           </p>
           <h1 className="mt-8 text-[20px] text-[#ffffff] underline underline-offset-2">
             Contact
           </h1>
           <div className="mt-4 flex gap-5">
             <img src={Mail} alt="" />
-            <p className="text-[18px] text-[#ffffff]">sgeducation@gmail.com</p>
+            <p className="text-[18px] text-[#ffffff]">matezneetacademy@gmail.com</p>
           </div>
           <div className="mt-4 flex gap-5">
             <img src={Phone} alt="" />
-            <p className="text-[18px] text-[#ffffff]">+91 8591932112</p>
+            <p className="text-[18px] text-[#ffffff]">+91 9519515042</p>
           </div>
         </div>
         <div className="hidden sm:inline">
@@ -48,13 +46,13 @@ const Footer = () => {
             Our Social
           </h1>
           <div className="flex justify-between gap-6 mt-6">
-  <a href="https://www.instagram.com/sgeducationacademy" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/matez_neet_academy" target="_blank" rel="noopener noreferrer">
     <img src={Insta} alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/sgeduhc" target="_blank" rel="noopener noreferrer">
     <img src={Fb} alt="Facebook" />
   </a>
-  <a href="https://www.youtube.com/@S.G.Education" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/@MaTezNeetAcademy" target="_blank" rel="noopener noreferrer">
     <img src={YouTube} alt="YouTube" />
   </a>
 </div>
@@ -71,9 +69,9 @@ const Footer = () => {
               Address
             </h1>
             <p className="text-[14px] text-[#ffffff] w-[195px] mt-4">
-              Office No 109, Whitefield, Flower Valley, above HDFC Bank,
-              opposite Gurudev NX, Khadakpada, Birla College Road, Kalyan,
-              Maharashtra 421301.
+              3rd Floor, J.P. Shahi Bhawan, Infront Of Pillar's School, 
+              Civil Lines, Golghar, Gorakhpur, 
+              Uttar Pradesh 273001.
             </p>
             <h1 className="mt-8 text-[14px] text-[#ffffff] font-medium underline underline-offset-2">
               Contact
@@ -81,12 +79,12 @@ const Footer = () => {
             <div className="mt-4 flex gap-5">
               <img src={Mail} alt="" />
               <p className="text-[14px] text-[#ffffff]">
-                sgeducation@gmail.com
+                matezneetacademy@gmail.com
               </p>
             </div>
             <div className="mt-4 flex gap-5">
               <img src={Phone} alt="" />
-              <p className="text-[14px] text-[#ffffff]">+91 8591932112</p>
+              <p className="text-[14px] text-[#ffffff]">+91 9519515042</p>
             </div>
             <h1 className="mt-6 text-[14px] text-[#ffffff] font-medium underline underline-offset-2">
               Our Social
