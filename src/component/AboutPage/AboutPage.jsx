@@ -59,8 +59,8 @@ const AboutPage = () => {
           <h1 className="text-[20px] text-left  text-[#ffffff] font-semibold sm:text-[32px]">
             Our Story:
           </h1>
-          <h1 className="mt-3 text-[32px] sm:text-[48px] text-[#ffffff] font-bold">
-            About SG Education
+          <h1 className="mt-3 text-[28px] sm:text-[40px] text-[#ffffff] font-bold">
+            About Matez Neet Academy
           </h1>
           <p className="mt-2 text-[16px] w-[325px] sm:text-[24px] text-[#ffffff]  sm:w-[614px] mx-auto sm:mx-0">
             SG Education, located in the heart of Kalyan, has been a beacon of
@@ -78,77 +78,7 @@ const AboutPage = () => {
       </div>
        
         <MissionAndVission />
-       {/* <img className="hidden sm:block relative w-full h-[50%] 2xl:h-[1500px]" src={Bg2} alt="" /> */}
-      {/* <div className="sm:absolute sm:top-0 sm:mt-[66%] font-roboto relative bg-[#043147] sm:bg-transparent flex flex-col items-center text-center sm:mx-[20%]  pt-10 pb-8 ">
-        <h1 className="text-[32px] sm:text-[48px] font-bold text-[#ffffff]">
-          Mission And Vision:
-        </h1>
-        <p className="w-[328px] flex-row justify-between sm:w-[736.8px] text-[16px] sm:text-[22px] text-[#ffffff] mt-6">
-          Our mission is to be the best coaching center in Kalyan, providing
-          top-tier education that prepares students for academic and competitive
-          success.{" "}
-          <span className="hidden sm:inline">
-            We envision a future where every student in Kalyan has access to
-            quality education that drives them to achieve their dreams.
-          </span>
-        </p>
-        <span className="w-[314px] text-[14px] text-[#D9D9D9]  sm:hidden mt-10">
-          We envision a future where every student in Kalyan has access to{" "}
-          <br />
-          quality education that drives them to achieve their dreams.
-        </span>
-
-        <img className="sm:hidden mt-10" src={Person2a} alt="" />
-
-        <img
-          className="hidden sm:inline w-[360px] h-[218px] sm:w-[986px] sm:h-[504px]  sm:mt-16 2xl:w-[1700px] 2xl:h-[800px]"
-          src={Person2}
-          alt="Mission Image"
-        />
-        <img
-          className="hidden sm:inline absolute sm:top-[60%] left-1/2 transform -translate-x-1/2 2xl:w-[8%] 2xl:mt-24"
-          src={PlayButton}
-          alt="Play Button"
-        />
-      </div> */}
-
-    {/* <div className="sm:absolute sm:top-0 sm:mt-[66%] font-roboto relative bg-[#043147] sm:bg-transparent flex flex-col items-center text-center sm:mx-[20%] pt-10 pb-8">
-      <h1 className="text-[32px] sm:text-[48px] font-bold text-[#ffffff]">
-        Mission And Vision:
-      </h1>
-      <p className="w-[328px] flex-row justify-between sm:w-[736.8px] text-[16px] sm:text-[22px] text-[#ffffff] mt-6">
-        Our mission is to be the best coaching center in Kalyan, providing
-        top-tier education that prepares students for academic and competitive
-        success.{" "}
-        <span className="hidden sm:inline">
-          We envision a future where every student in Kalyan has access to
-          quality education that drives them to achieve their dreams.
-        </span>
-      </p>
-      <span className="w-[314px] text-[14px] text-[#D9D9D9] sm:hidden mt-10">
-        We envision a future where every student in Kalyan has access to <br />
-        quality education that drives them to achieve their dreams.
-      </span> */}
-
-      
-      {/* Mobile YouTube Video */}
-      {/* <iframe
-        className="sm:hidden mt-10 w-[314px] h-auto"
-        src="https://www.youtube.com/embed/uPCfN_kD-vU?si=0rBX6X0Gg3b0M_fO"
-        title="YouTube video"
-        allow="autoplay; encrypted-media"
-        allowFullScreen
-      ></iframe> */}
-
-      {/* Desktop YouTube Video */}
-      {/* <iframe
-        className="hidden sm:inline w-[360px] h-[218px] sm:w-[986px] sm:h-[504px] sm:mt-16 2xl:w-[1700px] 2xl:h-[800px]"
-        src="https://www.youtube.com/embed/uPCfN_kD-vU?si=0rBX6X0Gg3b0M_fO"
-        title="YouTube video"
-        allow="autoplay; encrypted-media"
-        allowFullScreen
-      ></iframe>
-    </div> */}
+       
 
       <div className="sm:relative font-roboto">
         <img className="sm:w-full hidden sm:inline 2xl:h-[1100px]" src={Background} alt="" />

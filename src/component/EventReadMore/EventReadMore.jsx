@@ -1,5 +1,5 @@
 import React from "react";
-import { useSpring, animated } from "react-spring";
+import { useSpring, animated } from "@react-spring/web";
 import { useInView } from "react-intersection-observer";
 import Bg1 from "../../assets/EventsReadMore/Bg1.png";
 import Arrow from "../../assets/EventsReadMore/RegisterNow Arrow.png";
