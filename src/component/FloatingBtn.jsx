@@ -3,7 +3,7 @@ import styles from "./FloatingBtn.module.css";
 
 const FloatingBtn = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/+917715916926?text=Hi%20there!", "_blank");
+    window.open("https://wa.me/+919519515052?text=Hi%20there!", "_blank");
   };
 
   return (
