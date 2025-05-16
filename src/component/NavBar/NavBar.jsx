@@ -33,7 +33,7 @@ const NavBar = () => {
       {resWidth >= 768 ? (
         <div className="flex justify-between items-center">
           <div className="ml-[30px]" onClick={() => navigate("/")}>
-            <img src={Logo} alt="Logo" className="cursor-pointer" />
+            <img src={Logo} alt="Logo" className="cursor-pointer w-[88px] h-[88px] " />
           </div>
           <div className="flex">
             <ul className="flex gap-[50px]">

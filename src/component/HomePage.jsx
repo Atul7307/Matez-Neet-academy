@@ -80,13 +80,11 @@ const HomePage = () => {
 
   const headings = [
     "11th & 12th Science",
-    "IIT-JEE",
-    "NEET",
-    "MHT-CET",
+    "NEET-UG",
     "8th-9th-10th Board",
-    "JEE/NEET Foundation",
+    "NEET Foundation",
     "Olympiad",
-    "Special Math Batch",
+    "Target NEET Batch",
   ];
 
   const [index, setIndex] = useState(0);
@@ -119,8 +117,8 @@ const HomePage = () => {
   const [percentage, setPercentage] = useState(0);
 
   const targetValues = {
-    years: 4,
-    students: 3300,
+    years: 10,
+    students: 5500,
     faculties: 10,
     percentage: 99,
   };
@@ -214,7 +212,7 @@ const HomePage = () => {
           <div className="container mx-auto sm:flex px-4 pb-6 sm:pb-32">
             <div className="pt-4 sm:pt-[120px] sm:ml-[50px]">
               <h1 className="w-[328px] sm:w-[650px] text-[24px] sm:text-[64px] text-[#ffffff] sm:text-[#ffffff] font-bold leading-tight">
-                Best Coaching Class in Kalyan for
+                Best Coaching Class in Gorakhpur for
               </h1>
               <div className="relative h-[50px] w-full flex items-center overflow-hidden">
                 {transitions((style, i) => (
@@ -227,7 +225,7 @@ const HomePage = () => {
                 ))}
               </div>
               <p className="text-[18px] sm:text-[28px] w-[328px] sm:w-[605px] text-[#ffffff] sm:text-[#ffffff] font-roboto font-normal">
-                Join Kalyan's Top-Rated Coaching Institute for Academic
+                Join Gorakhpur's Top-Rated Coaching Institute for Academic
                 Excellence and Competitive Exam Success.
               </p>
               <div className="flex justify-between sm:justify-normal sm:gap-4 mt-6">
@@ -258,7 +256,7 @@ const HomePage = () => {
                   key={index}
                   src={images[index]}
                   style={style}
-                  className="absolute top-[0px] mt-3 sm:mt-[100px] ml-7 sm:ml-24 w-[270px] h-[370px] sm:w-[382px] sm:h-[510px] rounded-xl shadow-lg"
+                  className="absolute top-[0px] mt-3 sm:mt-[100px] ml-7 sm:ml-24 w-[270px] h-[370px] sm:w-[395px] sm:h-[510px] rounded-xl shadow-lg object-cover"
                 />
               ))}
             </div>
@@ -326,11 +324,11 @@ const HomePage = () => {
               </h2>
             </p>
             <h1 className="sm:mt-10 text-[16px] sm:text-[40px] text-[#012f48] font-semibold sm:font-bold">
-              Why choose SG Education?
+              Why choose MaTez Neet Academy?
             </h1>
             <p className="mt-3 sm:mt-10 w-[328px] sm:w-[433px] text-[14px] sm:text-[18px] text-[#6a6868] font-medium">
               Our coaching classes are renowned for producing top achievers in
-              board exams and competitive exams like IIT-JEE and NEET.
+              board exams and competitive exams like NEET-UG and Olympiads.
             </p>
 
             <img
@@ -350,7 +348,7 @@ const HomePage = () => {
                   Top Results in Kalyan
                 </h1>
                 <p className="w-[157px] sm:w-[216px] mt-2 sm:mt-4 text-[#6a6868] text-[14px] sm:text-[16px]">
-                  Top rank in board & competitive exams
+                  Top rank in NEET-UG, Competitive exams & Boards Exam
                 </p>
               </div>
               <div>
@@ -363,7 +361,7 @@ const HomePage = () => {
                   Experienced Educators
                 </h1>
                 <p className="w-[157px] sm:w-[216px] mt-2 sm:mt-4 text-[#6a6868] text-[14px] sm:text-[16px]">
-                  Learn from kalyan’s best educators
+                  Learn from Gorakhpur’s best educators
                 </p>
               </div>
             </div>
@@ -394,7 +392,7 @@ const HomePage = () => {
                   Modern Facilites
                 </h1>
                 <p className="w-[157px] sm:w-[216px] mt-2 sm:mt-4 text-[#6a6868] text-[14px] sm:text-[16px]">
-                  equipped with state of the art facilities
+                  Equipped with state of the art facilities
                 </p>
               </div>
             </div>
@@ -742,7 +740,7 @@ const HomePage = () => {
       <div className="sm:hidden relative font-roboto">
         <div className="mt-6 py-4 pl-6 bg-[#f77f00]">
           <h1 className="w-[168px] text-[#ffffff] text-[14px] font-bold">
-            Ready to Join Kalyan's Best Coaching Classes?
+            Ready to Join Gorakhpur's Best Coaching Classes?
           </h1>
           <button
             className="w-20 h-6 mt-2 text-xs text-[#f77f00] font-bold bg-white cursor-pointer"
@@ -760,7 +758,7 @@ const HomePage = () => {
       <div className="hidden sm:inline relative">
         <div className="mt-[150px] mx-16 pl-16 bg-[#f77f00] ">
           <h1 className="w-[685px] pt-24 text-[#ffffff] leading-[57px] text-[42px] font-bold">
-            Ready to Join Kalyan's Best Coaching Classes?
+            Ready to Join Gorakhpur's Best Coaching Classes?
           </h1>
           <button
             className="w-[243px] h-[75px] mt-10 mb-10 text-[23px] text-[#f77f00] font-bold bg-[#ffffff] cursor-pointer"

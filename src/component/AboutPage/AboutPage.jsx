@@ -60,15 +60,14 @@ const AboutPage = () => {
             Our Story:
           </h1>
           <h1 className="mt-3 text-[28px] sm:text-[40px] text-[#ffffff] font-bold">
-            About Matez Neet Academy
+            About MaTez Neet Academy
           </h1>
           <p className="mt-2 text-[16px] w-[325px] sm:text-[24px] text-[#ffffff]  sm:w-[614px] mx-auto sm:mx-0">
-            SG Education, located in the heart of Kalyan, has been a beacon of
-            academic excellence for students aiming to excel in Science and
-            Mathematics. Our coaching classes are renowned for producing top
-            achievers in board exams and competitive exams like IIT-JEE and
-            NEET. With a focus on personalized learning and consistent
-            performance, we are dedicated to helping students in Kalyan realize
+            MaTez Neet Academy, located in the Golghar Gorakhpur, has been a beacon of
+            academic excellence for students aiming to NEET-UG . Our coaching classes are renowned for producing top
+            achievers in board exams and competitive exams like NEET-UG and
+            Olympiads. With a focus on personalized learning and consistent
+            performance, we are dedicated to helping students in Gorakhpur realize
             their full potential.
           </p>
         </div>
@@ -85,7 +84,7 @@ const AboutPage = () => {
         <div className="sm:absolute sm:flex justify-between pt-10 px-5 sm:pt-20 top-0 2xl:mx-[20%]">
           <div>
             <h1 className="text-[40px] sm:text-[48px] sm:ml-20  font-bold 2xl:mx-0">
-              Why choose SG Education?
+              Why choose MaTez Neet Academy?
             </h1>
             <img className="mt-28 hidden sm:inline" src={Student1} alt="" />
           </div>
@@ -98,12 +97,12 @@ const AboutPage = () => {
               </div>
               <div>
                 <h1 className="text-[20px] sm:text-[32px] font-bold">
-                  Top Results in Kalyan
+                  Top Results in Gorakhpur
                 </h1>
                 <p className="text-[#726969] w-[211px] h-[144px] sm:w-[392px] sm:text-[18px] text-[16px] mt-3">
-                  Our students consistently achieve high ranks in board and
-                  competitive exams, making SG Education the go-to coaching
-                  center in Kalyan for academic excellence
+                  Our students consistently achieve high ranks in NEET-UG and
+                  boards exam, making MaTez Neet Academy the go-to coaching
+                  center in Gorakhpur for academic excellence
                 </p>
               </div>
             </div>
@@ -118,7 +117,7 @@ const AboutPage = () => {
                   Experienced Educators
                 </h1>
                 <p className="text-[#726969] w-[242px] h-[144px] sm:w-[392px] sm:text-[18px] text-[16px] mt-3">
-                  Learn from Kalyan’s best educators who are not just teachers
+                  Learn from Gorakhpur’s best educators who are not just teachers
                   but mentors, guiding you through every step of your academic
                   journey with their expertise and experience
                 </p>
@@ -160,9 +159,9 @@ const AboutPage = () => {
                   Career Mapping
                 </h1>
                 <p className="text-[#726969] w-[245px] sm:w-[555px] text-[16px] sm:text-[18px] mt-3">
-                  At SG Education, we understand that every student has unique
+                  At MaTez Neet Academy, we understand that every student has unique
                   career aspirations. Our Career Mapping service helps students
-                  in Kalyan identify their strengths, interests, and potential
+                  in Gorakhpur identify their strengths, interests, and potential
                   career paths. We provide personalized guidance to help you
                   make informed decisions about your future, ensuring you are on
                   the right path to achieving your career goals."
@@ -182,7 +181,7 @@ const AboutPage = () => {
                 <p className=" w-[250px] sm:w-[465px] text-[16px] text-[#726969] sm:text-[18px] mt-3">
                   Navigating through academic pressures and making career
                   choices can be overwhelming. That’s why we offer Personal
-                  Counselling services at our Kalyan center. Our expert
+                  Counselling services at our Coaching center. Our expert
                   counsellors are here to support you with one-on-one sessions,
                   helping you overcome challenges, manage stress, and stay
                   focused on your goals. Whether you need help with study
