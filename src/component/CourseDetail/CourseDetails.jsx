@@ -91,7 +91,7 @@ function CourseDetail() {
         {/* Bouncing Ball Animation */}
         <div className="absolute top-4 right-4 flex flex-col items-center">
           <div
-            className={styles.questionBall + " w-14 h-14 lg:w-20 lg:h-20 bg-[#efedec] rounded-full animate-bounce m-5 text-center lg:pt-45 items-center justify-center cursor-pointer"}
+            className={styles.questionBall + " bg-[#efedec] rounded-full animate-bounce text-center items-center justify-center cursor-pointer py-3 px-3 lg:px-5"}
             onClick={handleOpenModal}
             aria-label="Help Ball"
           >
@@ -102,7 +102,7 @@ function CourseDetail() {
         {/* Modal Dialog */}
 
         <Modal
-          visible={isModalVisible}
+          open={isModalVisible}
           onCancel={handleCloseModal}
           footer={null}
           centered

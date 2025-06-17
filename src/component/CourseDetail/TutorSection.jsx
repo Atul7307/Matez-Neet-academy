@@ -1,11 +1,13 @@
 import React from "react";
+const images = import.meta.glob('./*.png', { eager: true });
+import Su from "./Su.png";
+import Clg from "./clg.png";
+import Person from "./person.png";
 
 const TutorSection = ({ course }) => {
   // Dynamically load the image based on the course ID
-  const tutorImage = require(`./${course.id}.png`);
-  const Su = require("./Su.png");
-  const Clg = require("./clg.png");
-  const Person = require("./person.png");
+  // const tutorImage = require(`./${course.id}.png`);
+   const tutorImage = images[`./${course.id}.png`]?.default;
 
   return (
     <div className="w-full bg-[#D8E5ED] py-12 flex justify-center">

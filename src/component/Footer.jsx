@@ -76,13 +76,13 @@ const Footer = () => {
             <h1 className="mt-8 text-[14px] text-[#ffffff] font-medium underline underline-offset-2">
               Contact
             </h1>
-            <div className="mt-4 flex gap-5">
+            <div className="mt-4 flex gap-2 md:gap-5 justify-start items-center">
               <img src={Mail} alt="" />
-              <p className="text-[14px] text-[#ffffff]">
+              <p className=" text-[10px] lg:text-[14px] text-[#ffffff]">
                 matezneetacademy@gmail.com
               </p>
             </div>
-            <div className="mt-4 flex gap-5">
+            <div className="mt-4 flex gap-2 md:gap-5 justify-start items-center">
               <img src={Phone} alt="" />
               <p className="text-[14px] text-[#ffffff]">+91 9519515042</p>
             </div>

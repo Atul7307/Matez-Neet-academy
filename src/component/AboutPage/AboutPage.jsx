@@ -51,7 +51,7 @@ const AboutPage = () => {
   }, []);
 
   return (
-    <div>
+    <div >
        <img className="relative hidden sm:inline w-full" src={Bg} alt="" />
        <img className="relative sm:hidden w-full" src={Bg1} alt="" />
       <div className="absolute top-0 mt-[90px] sm:mt-[15%] font-roboto flex flex-col sm:flex-row justify-between items-center mx-5 sm:mx-16  text-center sm:text-left sm:gap-24">
@@ -81,7 +81,7 @@ const AboutPage = () => {
 
       <div className="sm:relative font-roboto">
         <img className="sm:w-full hidden sm:inline 2xl:h-[1100px]" src={Background} alt="" />
-        <div className="sm:absolute sm:flex justify-between pt-10 px-5 sm:pt-20 top-0 2xl:mx-[20%]">
+        <div className="sm:absolute sm:flex justify-between pt-10 px-5 sm:pt-20 top-0 2xl:mx-[20%] mb-8">
           <div>
             <h1 className="text-[40px] sm:text-[48px] sm:ml-20  font-bold 2xl:mx-0">
               Why choose MaTez Neet Academy?
