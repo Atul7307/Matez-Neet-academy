@@ -165,7 +165,7 @@ export default function Contact() {
                     Support Team
                   </h2>
                   <h4>
-                  Chat with our WhatsApp support team to get insights about SG educations, Course work and enrolling process.
+                  Chat with our WhatsApp support team to get insights about MaTez NEET Academy, Course work and enrolling process.
                   </h4>
                 </div>
               </div>
@@ -212,7 +212,7 @@ export default function Contact() {
             <h1>Explore in Maps</h1>
             <div className="mapWrapper">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.6976948085035!2d73.13538367472482!3d19.     252002446424655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.      1!3m3!1m2!1s0x3be79736706a0099%3A0x710171692ba67415!2sSG%20Education!5e0!3m2!1sen!2sin!4v1727784347118!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3562.7779655293107!2d83.37322947488941!3d26.751460667002743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39914525f9c41a8f%3A0x5f59de159caf141d!2sMaTez%20NEET%20academy!5e0!3m2!1sen!2sin!4v1747813816202!5m2!1sen!2sin" 
                 width="100%"
                 style={{ border: 0 }}
                 allowFullScreen=""

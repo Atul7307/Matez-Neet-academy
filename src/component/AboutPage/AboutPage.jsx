@@ -221,8 +221,13 @@ const AboutPage = () => {
             Describe what makes your company unique
           </h1>
           <p className="w-[634px] mt-5 text-[18px] text-[#ffffff]">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            varius enim in eros elementum tristique.
+           MaTez NEET Academy stands out for delivering Kota-level education right in Gorakhpur,
+            ensuring students don’t have to leave home to access the best coaching. 
+            Our uniqueness lies in our team of Ex-ALLEN top faculties with over 10+ years of experience,
+            who have a proven track record of producing high NEET scorers (705/720, 700/720, etc.).
+            We offer a 5-day free demo class, focus on student-centric teaching, and provide premium quality education at an affordable fee.
+            At MaTez, students are taught by the very teachers who have guided top NEET performers, making high scores a real possibility 
+            for every learner.
           </p>
         </div>
         <div>

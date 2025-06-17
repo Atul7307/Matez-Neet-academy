@@ -46,13 +46,6 @@ const OurAchiever = () => {
           Achievements: "12th Boards",
           Specialization: "Score: 80.6%age",
         },
-        {
-          id: 6,
-          name: "Kundan Singh",
-          profilePic: Stu0,
-          Achievements: "12th Boards",
-          Specialization: "Score: 79.9%age",
-        },
       ];
 
     return (
@@ -62,7 +55,7 @@ const OurAchiever = () => {
           className="pb-5 sm:pb-20 bg-[#D8E5ED] font-roboto"
         >
           <h1 className="text-center text-[16px] sm:text-[40px] font-semibold text-[#002F48] pt-5 pb-8 underline underline-offset-[10px] sm:underline-offset-[25px] decoration-[#f77f00]">
-            Our Achievers
+            Past Achievers Taught by Us
           </h1>
 
           {/* Desktop View */}
@@ -77,7 +70,7 @@ const OurAchiever = () => {
                     <img
                       className="w-[165px] h-[168px] rounded-full"
                       src={data.profilePic}
-                      alt="Our Achievers"
+                      alt="Past Achievers Taught by Us"
                     />
                   </div>
                   <h1 className="text-[26px] font-semibold mt-5">
