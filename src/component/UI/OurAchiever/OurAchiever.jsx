@@ -13,45 +13,38 @@ const OurAchiever = () => {
     const profileData = [
         {
           id: 1,
-          name: "Gaurav Sanjay Ghude",
-          profilePic: Stu1,
-          Achievements: "MHT-CET",
-          Specialization: "Score: 97%tile",
+          name: "Parva ",
+          profilePic: Stu0,
+          Achievements: "NEET-UG",
+          Specialization: "AIR-21",
         },
         {
           id: 2,
-          name: "Akshata Avinash Khatal",
-          profilePic: Stu2,
-          Achievements: "MHT-CET",
-          Specialization: "Score: 75.83%tile",
+          name: "Devanshu Gandhi",
+          profilePic: Stu0,
+          Achievements: "NEET-UG",
+          Specialization: "Score: 692 Marks",
         },
         {
           id: 3,
-          name: "Kunal Parshuram Chaudhari",
-          profilePic: Stu3,
-          Achievements: "MHT-CET",
-          Specialization: "Score: 97%tile",
+          name: "Kavya",
+          profilePic: Stu0,
+          Achievements: "NEET-UG",
+          Specialization: "Score: 670 Marks",
         },
         {
           id: 4,
-          name: "Soham Devidas Bangar",
-          profilePic: Stu4,
-          Achievements: "MHT-CET",
-          Specialization: "Score: 92.76%tile",
+          name: "Jaineel",
+          profilePic: Stu0,
+          Achievements: "NEET-UG",
+          Specialization: "Score: 626 Marks",
         },
         {
           id: 5,
-          name: "Mohd. Adnan Feroz Shaikh",
+          name: "Nidhi Singh",
           profilePic: Stu0,
-          Achievements: "MHT-CET",
-          Specialization: "Score: 95.54%tile",
-        },
-        {
-          id: 6,
-          name: "Nishant Pradeep Patil",
-          profilePic: Stu0,
-          Achievements: "MHT-CET",
-          Specialization: "Score: 94.46%tile",
+          Achievements: "12th Boards",
+          Specialization: "Score: 80.6%age",
         },
       ];
 
@@ -62,7 +55,7 @@ const OurAchiever = () => {
           className="pb-5 sm:pb-20 bg-[#D8E5ED] font-roboto"
         >
           <h1 className="text-center text-[16px] sm:text-[40px] font-semibold text-[#002F48] pt-5 pb-8 underline underline-offset-[10px] sm:underline-offset-[25px] decoration-[#f77f00]">
-            Our Achievers
+            Past Achievers Taught by Us
           </h1>
 
           {/* Desktop View */}
@@ -77,7 +70,7 @@ const OurAchiever = () => {
                     <img
                       className="w-[165px] h-[168px] rounded-full"
                       src={data.profilePic}
-                      alt="Our Achievers"
+                      alt="Past Achievers Taught by Us"
                     />
                   </div>
                   <h1 className="text-[26px] font-semibold mt-5">

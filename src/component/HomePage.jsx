@@ -345,7 +345,7 @@ const HomePage = () => {
                   alt="TopResult"
                 />
                 <h1 className="mt-6 text-[14px] sm:text-[20px] font-medium	">
-                  Top Results in Kalyan
+                  Top Results in Gorakhpur
                 </h1>
                 <p className="w-[157px] sm:w-[216px] mt-2 sm:mt-4 text-[#6a6868] text-[14px] sm:text-[16px]">
                   Top rank in NEET-UG, Competitive exams & Boards Exam

@@ -11,12 +11,12 @@ const MissionAndVission = () => {
                       Mission And Vision:
                     </h1>
                     <p className=" flex-row justify-between  text-[16px] sm:text-[22px] text-[#ffffff] mt-6">
-                    Our mission is to be the best coaching center in Kalyan, providing
+                    Our mission is to be provide the best coaching in Gorakhpur, providing
                     top-tier education
                     <br/>
                     that prepares students for academic and competitivesuccess.
                     <br/>
-                    We envision a future where every student in Kalyan has access to
+                    We envision a future where every student in Gorakhpur has access to
                     <br/>
                     quality education that drives them to achieve their dreams.
                     </p>
